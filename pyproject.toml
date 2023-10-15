@@ -2,7 +2,9 @@
 name = "rikemorais-worldata"
 version = "0.1.0"
 description = "Worldata is a project created to bring together diverse data sources in one place."
-authors = ["Henrique Morais rikeaju@hotmail.com"]
+authors = [
+    "Henrique Morais <rikeaju@hotmail.com>"
+]
 readme = "README.md"
 packages = [{include = "rikemorais-worldata"}]
 
