@@ -11,6 +11,7 @@ packages = [{include = "rikemorais-worldata"}]
 [tool.poetry.dependencies]
 python = "^3.11"
 pyspark = "^3.5.0"
+requests = "^2.31.0"
 
 
 [build-system]
