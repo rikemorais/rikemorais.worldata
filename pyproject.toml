@@ -28,6 +28,7 @@ pytest-cov = "^4.1.0"
 [tool.poetry.group.doc.dependencies]
 mkdocs-material = "^9.5.1"
 mkdocstrings = "^0.24.0"
+mkdocstrings-python = "^1.7.5"
 
 [build-system]
 requires = ["poetry-core"]
